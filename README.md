@@ -1,5 +1,8 @@
+<table>
+  <tr>
+    <td>
+      
 ### Contacts
-
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Rodevich_Dmitry)
 <a href="mailto:kalivaria4@gmail.com?subject=From GitHub"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat&logo=gmail&logoColor=white"/></a>
 [![](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/rodewitsch)
@@ -31,6 +34,19 @@
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+![](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+    </td>
+    <td>
+    
+
+
+<a href="https://app.daily.dev/rodewitsch"><img src="https://api.daily.dev/devcards/a56d6341860741d4ac1fa311d3b3ea87.png?r=ncg" width="400" alt="Dmitry Rodevich's Dev Card"/></a>
+
+
+
+</td>
+</tr>
+</table>
+
 
 
