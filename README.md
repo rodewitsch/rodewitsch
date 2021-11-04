@@ -40,7 +40,7 @@
     
 
 
-<a href="https://app.daily.dev/rodewitsch"><img src="https://api.daily.dev/devcards/a56d6341860741d4ac1fa311d3b3ea87.png?r=ncg" width="400" alt="Dmitry Rodevich's Dev Card"/></a>
+<a href="https://app.daily.dev/rodewitsch"><img src="https://api.daily.dev/devcards/a56d6341860741d4ac1fa311d3b3ea87.png?r=nbo" width="400" alt="Dmitry Rodevich's Dev Card"/></a>
 
 
 
