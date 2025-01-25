@@ -35,8 +35,18 @@
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
-    </td>
-    <td>
+
+### Projects
+[![pe](https://github.com/user-attachments/assets/41e161d0-a04d-40c9-8607-2a132c1a4f2c)](https://chromewebstore.google.com/detail/puzzle-english-dictionary/gjaleekpebchkichhnhjollkhhkhpcgp?authuser=0&hl=ru)
+[![small advertisemenet](https://github.com/user-attachments/assets/4e05d457-1909-4e04-a5c0-2cc67912d359)](https://chromewebstore.google.com/detail/base64coder/ebgonfpmppfndacngpbmgajldoabnjkm?authuser=0&hl=ru)
+[![ad_small](https://github.com/user-attachments/assets/2ac490f2-6be1-418e-b983-2f3c389ca090)](https://chromewebstore.google.com/detail/swagger-ui-authorizer/hhdgdnjkmkhedanhlidcmahodmakepfa?authuser=0&hl=ru)
+[![splash](https://github.com/user-attachments/assets/a698c009-e2e0-446e-99fe-edba1834c37d)](https://play.google.com/store/apps/details?id=com.rdm.tracktortest&hl=ru)
+[![carbone](https://github.com/user-attachments/assets/f005855e-a6a5-4d5f-9d24-b2dc764f1d9e)](https://www.npmjs.com/package/@rodewitsch/carbone)
+[![unp](https://github.com/user-attachments/assets/9da115c1-bcad-4991-a0f9-57d6ccfc8766)](https://www.npmjs.com/package/unp-validator)
+
+
+</td>
+<td>
     
 
 
