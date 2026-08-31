@@ -46,6 +46,8 @@
 [![splash](https://github.com/user-attachments/assets/a698c009-e2e0-446e-99fe-edba1834c37d)](https://play.google.com/store/apps/details?id=com.rdm.tracktortest&hl=ru)
 [![carbone](https://github.com/user-attachments/assets/f005855e-a6a5-4d5f-9d24-b2dc764f1d9e)](https://www.npmjs.com/package/@rodewitsch/carbone)
 [![unp](https://github.com/user-attachments/assets/9da115c1-bcad-4991-a0f9-57d6ccfc8766)](https://www.npmjs.com/package/unp-validator)
+[![tickets-sniffer](https://github.com/user-attachments/assets/95d845f5-1ee7-472a-96e0-68944e2a4399)](https://t.me/tickets_sniffer_bot)
+
 
 </td>
 <td>
