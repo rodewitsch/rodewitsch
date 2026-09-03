@@ -38,7 +38,7 @@
 
 
 ### Projects
-[![pe](https://github.com/user-attachments/assets/41e161d0-a04d-40c9-8607-2a132c1a4f2c)](https://chromewebstore.google.com/detail/puzzle-english-dictionary/gjaleekpebchkichhnhjollkhhkhpcgp?authuser=0&hl=ru)
+[![pe](https://github.com/user-attachments/assets/0344dbf7-49c6-4da3-858a-eb6dc5df79ef)](https://chromewebstore.google.com/detail/puzzle-english-dictionary/gjaleekpebchkichhnhjollkhhkhpcgp?authuser=0&hl=ru)
 [![small advertisemenet](https://github.com/user-attachments/assets/4e05d457-1909-4e04-a5c0-2cc67912d359)](https://chromewebstore.google.com/detail/base64coder/ebgonfpmppfndacngpbmgajldoabnjkm?authuser=0&hl=ru)
 [![ad_small](https://github.com/user-attachments/assets/2ac490f2-6be1-418e-b983-2f3c389ca090)](https://chromewebstore.google.com/detail/swagger-ui-authorizer/hhdgdnjkmkhedanhlidcmahodmakepfa?authuser=0&hl=ru)
 [![image](https://github.com/user-attachments/assets/68ff1460-b2a3-4b09-96ac-cb1a48cb39b7)](https://chromewebstore.google.com/detail/relative-links-to-absolut/lafddlfgimneffahboncpgapcnnjckjm)
