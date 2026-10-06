@@ -1,7 +1,3 @@
-<table>
-  <tr>
-    <td width="60%">
-      
 ### Contacts
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Rodevich_Dmitry)
 <a href="mailto:kalivaria4@gmail.com?subject=From GitHub"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat&logo=gmail&logoColor=white"/></a>
@@ -38,20 +34,15 @@
 
 
 ### Projects
-[![pe](https://github.com/user-attachments/assets/0344dbf7-49c6-4da3-858a-eb6dc5df79ef)](https://chromewebstore.google.com/detail/puzzle-english-dictionary/gjaleekpebchkichhnhjollkhhkhpcgp?authuser=0&hl=ru)
-[![small advertisemenet](https://github.com/user-attachments/assets/4e05d457-1909-4e04-a5c0-2cc67912d359)](https://chromewebstore.google.com/detail/base64coder/ebgonfpmppfndacngpbmgajldoabnjkm?authuser=0&hl=ru)
-[![ad_small](https://github.com/user-attachments/assets/2ac490f2-6be1-418e-b983-2f3c389ca090)](https://chromewebstore.google.com/detail/swagger-ui-authorizer/hhdgdnjkmkhedanhlidcmahodmakepfa?authuser=0&hl=ru)
-[![image](https://github.com/user-attachments/assets/68ff1460-b2a3-4b09-96ac-cb1a48cb39b7)](https://chromewebstore.google.com/detail/relative-links-to-absolut/lafddlfgimneffahboncpgapcnnjckjm)
-[![zepp-os-transport-by](https://github.com/user-attachments/assets/32c2015d-c7d2-4659-a07a-bc54df114aba)](https://github.com/rodewitsch/zepp-os-transport-by)
-[![splash](https://github.com/user-attachments/assets/a698c009-e2e0-446e-99fe-edba1834c37d)](https://play.google.com/store/apps/details?id=com.rdm.tracktortest&hl=ru)
-[![carbone](https://github.com/user-attachments/assets/f005855e-a6a5-4d5f-9d24-b2dc764f1d9e)](https://www.npmjs.com/package/@rodewitsch/carbone)
-[![unp](https://github.com/user-attachments/assets/9da115c1-bcad-4991-a0f9-57d6ccfc8766)](https://www.npmjs.com/package/unp-validator)
-[![tickets-sniffer](https://github.com/user-attachments/assets/95d845f5-1ee7-472a-96e0-68944e2a4399)](https://t.me/tickets_sniffer_bot)
-
-
-</td>
-</tr>
-</table>
+<a href="https://chromewebstore.google.com/detail/puzzle-english-dictionary/gjaleekpebchkichhnhjollkhhkhpcgp?authuser=0&hl=ru"><img width="141" height="90" alt="pe" src="https://github.com/user-attachments/assets/0344dbf7-49c6-4da3-858a-eb6dc5df79ef"/></a>
+<a href="https://chromewebstore.google.com/detail/base64coder/ebgonfpmppfndacngpbmgajldoabnjkm?authuser=0&hl=ru"><img width="141" height="90" alt="base64coder" src="https://github.com/user-attachments/assets/4e05d457-1909-4e04-a5c0-2cc67912d359"/></a>
+<a href="https://chromewebstore.google.com/detail/swagger-ui-authorizer/hhdgdnjkmkhedanhlidcmahodmakepfa?authuser=0&hl=ru"><img width="141" height="90" alt="swagger-ui-authorizer" src="https://github.com/user-attachments/assets/2ac490f2-6be1-418e-b983-2f3c389ca090"/></a>
+<a href="https://t.me/tickets_sniffer_bot"><img width="141" height="90" alt="tickets-sniffer" src="https://github.com/user-attachments/assets/95d845f5-1ee7-472a-96e0-68944e2a4399"/></a>
+<a href="https://chromewebstore.google.com/detail/relative-links-to-absolut/lafddlfgimneffahboncpgapcnnjckjm"><img width="141" height="90" alt="relative-links-to-absolut" src="https://github.com/user-attachments/assets/68ff1460-b2a3-4b09-96ac-cb1a48cb39b7"/></a>
+<a href="https://github.com/rodewitsch/zepp-os-transport-by"><img width="141" height="90" alt="bus stop" src="https://github.com/user-attachments/assets/f4ca6da2-3530-4657-9326-3a9569df91ac"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.rdm.tracktortest&hl=ru"><img width="141" height="90" alt="tractor test" src="https://github.com/user-attachments/assets/a698c009-e2e0-446e-99fe-edba1834c37d"/></a>
+<a href="https://www.npmjs.com/package/@rodewitsch/carbone"><img width="141" height="90" alt="carbone" src="https://github.com/user-attachments/assets/f005855e-a6a5-4d5f-9d24-b2dc764f1d9e"/></a>
+<a href="https://www.npmjs.com/package/unp-validator"><img width="141" height="90" alt="unp" src="https://github.com/user-attachments/assets/9da115c1-bcad-4991-a0f9-57d6ccfc8766"/></a>
 
 <p align="center">
 I’ll be glad to have your support. Every donation goes towards developing the projects and maintaining the infrastructure 💙
