@@ -43,6 +43,7 @@
 <a href="https://play.google.com/store/apps/details?id=com.rdm.tracktortest&hl=ru"><img width="141" height="90" alt="tractor test" src="https://github.com/user-attachments/assets/a698c009-e2e0-446e-99fe-edba1834c37d"/></a>
 <a href="https://www.npmjs.com/package/@rodewitsch/carbone"><img width="141" height="90" alt="carbone" src="https://github.com/user-attachments/assets/f005855e-a6a5-4d5f-9d24-b2dc764f1d9e"/></a>
 <a href="https://www.npmjs.com/package/unp-validator"><img width="141" height="90" alt="unp" src="https://github.com/user-attachments/assets/9da115c1-bcad-4991-a0f9-57d6ccfc8766"/></a>
+<a href="https://chromewebstore.google.com/detail/bgnofdddgahndpccpfnlddggfmcjbcco"><img width="141" height="90" alt="unp" src="https://github.com/user-attachments/assets/bb1f8e32-b2af-4e4c-9c7d-b21c68851b6f"/></a>
 
 <p align="center">
 I’ll be glad to have your support. Every donation goes towards developing the projects and maintaining the infrastructure 💙
